@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="25c26bf0-0214-45df-aba1-97ae8d7654b2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_proxy_object_project.rb" afterPath="$PROJECT_DIR$/about_proxy_object_project.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_to_str.rb" afterPath="$PROJECT_DIR$/about_to_str.rb" />
     </list>
     <ignored path="koans.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_proxy_object_project.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_proxy_object_project.rb">
+      <file leaf-file-name="about_to_str.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_to_str.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47413793" vertical-offset="180" max-vertical-offset="2730">
-              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.8405172" vertical-offset="180" max-vertical-offset="900">
+              <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -63,6 +63,7 @@
         <option value="$PROJECT_DIR$/about_class_methods.rb" />
         <option value="$PROJECT_DIR$/about_message_passing.rb" />
         <option value="$PROJECT_DIR$/about_proxy_object_project.rb" />
+        <option value="$PROJECT_DIR$/about_to_str.rb" />
       </list>
     </option>
   </component>
@@ -370,8 +371,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_proxy_object_project.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47413793" vertical-offset="180" max-vertical-offset="2730">
-          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="2730">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_to_str.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8405172" vertical-offset="180" max-vertical-offset="900">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
           <folding />
         </state>
       </provider>
